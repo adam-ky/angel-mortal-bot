@@ -1,5 +1,7 @@
-*.csv
-__pycache__
-*.pem
-*.log
-*.json
+# venv files
+.python-version
+
+# pycache
+src/__pycache__
+src/creds.json
+
